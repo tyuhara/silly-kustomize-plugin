@@ -1,0 +1,5 @@
+apiVersion: SillyNameTransformer/v1alpha1
+kind: generateName
+metadata:
+  name: anything
+argsOneLiner: job.yaml

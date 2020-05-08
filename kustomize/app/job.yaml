@@ -1,0 +1,5 @@
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: merpay-echo-jp-prod
+  namespace: merpay-echo-jp-prod
